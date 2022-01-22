@@ -26,20 +26,20 @@ _Se generó el endpoint, a modo de ejemplo, "datediff?birthday=2022-06-25", por 
 * birthday - Se ingresará la fecha en la cuál cumplirá años el Rindegastino en el formado yyyy-mm-dd.
 
 _Se muestra en imagen una de las pruebas realzadas:_
-
+![image](https://user-images.githubusercontent.com/92905019/150651732-9c4347c6-7f18-4a78-afba-18e816b698a0.png)
 
 ### Analice las pruebas end-to-end 🔩
 
 _Realizaremos la pruebas a través del frontend, para esto ingresaremos los datos anteriormente mencionados en los formatos indicados. Acontinuación, se muestra las imágenes de las pruebas realizadas:_
 
 * Aplicación al levantar el servidor frontend
-
+![image](https://user-images.githubusercontent.com/92905019/150651749-19a8ba75-97cb-4bc5-ae86-a5f3fc2bcf5f.png)
 
 * Ingresamos los datos con los formatos mencionados
-
+![image](https://user-images.githubusercontent.com/92905019/150651835-4f88b3f6-067e-4662-b9a4-cf6907f51127.png)
 
 * Obtenemos el resultado esperado
-
+![image](https://user-images.githubusercontent.com/92905019/150651841-c6c7ab56-9618-4629-a24d-144ee1756469.png)
 
 ## Construido con 🛠️
 * [NestJS](https://docs.nestjs.com) - Framework Node.js
