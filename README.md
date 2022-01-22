@@ -1,4 +1,4 @@
-# Reto #1 Rindegastos
+# Reto #2 Rindegastos
 
 _Se desarrolló una pequeña aplicación que la cual calcula la cantidad de días faltantes para el cumpleaños de un Rindegastino. Se levantó dos servidores locales, uno para el frontend (puerto 3000) y otro para el backend (puerto 5000)._
 
